@@ -10,3 +10,5 @@ os
 cv2
 pathlib
 random
+yolo
+ultralytics

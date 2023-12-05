@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\ghadf\vscode_projects\venv_projects\New folder\object_detection_custom_pytorch\.venv"
+VIRTUAL_ENV="C:\Users\ghadf\vscode_projects\venv_projects\Pytorch\object_detection_custom_pytorch-1\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
